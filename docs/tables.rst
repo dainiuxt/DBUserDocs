@@ -27,4 +27,4 @@ All tables in database begins with prefix "T\_" except table WELLS. This preffix
 - T_Well_Purpose - List of available well purposes;
 - T_Workover_reasons - well intervention reasons;
 - T_Workovers - List of performed workovers in all wells;
-- :ref:`WELLS <../tables/WELLS.rst>` - Wells list.
+- :ref:`../tables/WELLS.rst` - Wells list.
