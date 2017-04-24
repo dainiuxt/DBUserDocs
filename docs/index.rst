@@ -1,5 +1,5 @@
-DataBase User Docs
-==================
+DataBase Schema
+===============
 
 This document concerns about structure and usage of database. Here will be overviewed list of Tables, Queries, Keywords and genertal functionality of the DataBase.
 
@@ -11,5 +11,4 @@ This document concerns about structure and usage of database. Here will be overv
    queries
    reports
    keywords
-
-
+   forms
