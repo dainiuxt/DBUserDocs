@@ -12,3 +12,8 @@ This document concerns about structure and usage of database. Here will be overv
    reports
    keywords
    forms
+
+
+.. image:: /assets/relationships.jpg
+
+--
