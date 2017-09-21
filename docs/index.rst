@@ -1,4 +1,4 @@
-006
+007
 
 ===================
 Documentation Guide
@@ -7,16 +7,18 @@ Documentation Guide
 This document concerns about architecture, structure and usage of the database. Here will be overviewed included files, relationship between them, list of Tables, Queries, Keywords and genertal functionality of the DataBase.
 
 Database architecture
-------------------
+---------------------
 .. toctree::
    :maxdepth: 2
-   
+   :caption: Database architecture
+      
    architecture
 
 Database structure
 ------------------
 .. toctree::
    :maxdepth: 2
+   :caption: Database structure
 
    tables
    queries
