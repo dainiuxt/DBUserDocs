@@ -1,10 +1,15 @@
 DataBase Schema
 ===============
 
-This document concerns about structure and usage of database. Here will be overviewed list of Tables, Queries, Keywords and genertal functionality of the DataBase.
+This document concerns about architecture, structure and usage of the database. Here will be overviewed included files, relationship between them, list of Tables, Queries, Keywords and genertal functionality of the DataBase.
 
 .. toctree::
    :maxdepth: 2
+   :caption: Database architecture
+   
+   architecture
+
+
    :caption: Basic Documentation
 
    tables
