@@ -5,19 +5,8 @@ This document concerns about architecture, structure and usage of the database. 
 
 .. toctree::
    :maxdepth: 2
-   :caption: Database architecture
-   
-      architecture
-
-   :caption: Basic Documentation
-
-      tables
-      queries
-      reports
-      keywords
-      forms
-...
-
+      *
+      self
 
 .. image:: /assets/relationships.jpg
 
