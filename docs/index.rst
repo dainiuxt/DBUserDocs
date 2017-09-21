@@ -1,4 +1,4 @@
-007
+008
 
 ===================
 Documentation Guide
@@ -10,14 +10,17 @@ Database architecture
 ---------------------
 .. toctree::
    :maxdepth: 2
+   :hidden:
    :caption: Database architecture
       
    architecture
+   
 
 Database structure
 ------------------
 .. toctree::
    :maxdepth: 2
+   :hidden:
    :caption: Database structure
 
    tables
