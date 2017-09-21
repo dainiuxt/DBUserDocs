@@ -9,7 +9,8 @@ This document concerns about architecture, structure and usage of the database. 
    
    architecture
 
-
+.. toctree::
+   :maxdepth: 2
    :caption: Basic Documentation
 
    tables
