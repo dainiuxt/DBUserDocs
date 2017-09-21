@@ -1,9 +1,8 @@
-004
+005
 
-.. toctrees::
+.. toctree::
    :maxdepth: 2
 
-      architecture
       tables
       queries
       reports
