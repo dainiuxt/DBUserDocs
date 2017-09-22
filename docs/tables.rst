@@ -3,7 +3,7 @@ Tables
 
 All tables in database begins with prefix "T\_" except table :doc:`WELLS <../tables/WELLS>`. This preffix is the main property which helps to distinct table from other database elements. Below are listed database tables with shorst summary of content. Tables structure and data will be discussed in separate document.
 
-- T_Assumptions - assumet wells flowrates for monthly reports;
+- T_Assumptions - assumed wells flowrates for monthly reports;
 - T_BDGT - budgeted monthly production volumes in cubic meters and tonnes on a well basis;
 - T_Categories - Classification of the well stanby reason;
 - T_Companies - Companies list and average relative density on a company basis;
