@@ -2,30 +2,52 @@
 Sufleris
 =====================
 
-# Dalis
+##############
+Dalis
 
 Dalies tekstas
 
-* Skyrius
+****************
+Skyrius
 
 Skyriaus tekstas
 
-=, Sekcija
+================
+Sekcija
 
 Sekcijos tekstas
 
--, subsekcija
+-----------------
+subsekcija
 
 jos tekstas
 
-^, sub-subsekcija
+^^^^^^^^^^^^^^^^^^^^
+sub-subsekcija
 
 jos tekstukas
 
-", paragrafas
-", antras paragrafas
 
-.. _a link: http://kurapka.lt/
+"paragrafas
+
+
+"antras paragrafas
+
+
+--------------
+Vidinės nuorodos
+--------------
+
+:doc:`WELLS <../tables/WELLS>` - Pilnas kelias, kai nuorodos dokumentas kataloge.
+
+:doc:`tables` - kelias, kai nuorodos dokumentas šakniniame kataloge (šiuo atveju - tai tables.rst).
+
+Paragrafo tekstas su nuoroda į `a kurapka.lt`_.
+.. _a kurapka.lt: http://kurapka.lt/
+
+Įterptas paveikslėlis
+
+.. image:: /assets/relationships.jpg
 
 Sudėtinga lentelė
 
