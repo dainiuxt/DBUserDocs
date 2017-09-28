@@ -4,38 +4,43 @@ Sufleris
 
 ##############
 Dalis
+##############
 
 Dalies tekstas
 
 
 ****************
 Skyrius
+****************
 
 Skyriaus tekstas
 
 
 ================
 Sekcija
+================
 
 Sekcijos tekstas
 
 
 -----------------
 subsekcija
+-----------------
 
 jos tekstas
 
 
 ^^^^^^^^^^^^^^^^^^^^
 sub-subsekcija
+^^^^^^^^^^^^^^^^^^^^
 
 jos tekstukas
 
 
-"paragrafas
+",paragrafas
 
 
-"antras paragrafas
+",antras paragrafas
 
 
 --------------
@@ -46,9 +51,9 @@ Vidinės nuorodos
 
 :doc:`tables` - kelias, kai nuorodos dokumentas šakniniame kataloge (šiuo atveju - tai tables.rst).
 
-Paragrafo tekstas su nuoroda į `a link`_.
+Paragrafo tekstas su nuoroda į `a kurapka`_.
 
-.. _a link: http://kurapka.lt/
+.. _a kurapka: http://kurapka.lt/
 
 Įterptas paveikslėlis
 
