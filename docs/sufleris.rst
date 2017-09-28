@@ -23,14 +23,12 @@ Sekcija
 Sekcijos tekstas
 
 
-----------
 subsekcija
 ----------
 
 jos tekstas
 
 
-^^^^^^^^^^^^^^
 sub-subsekcija
 ^^^^^^^^^^^^^^
 
@@ -54,6 +52,12 @@ Vidinės nuorodos
 Paragrafo tekstas su nuoroda į `a kurapka`_.
 
 .. _a kurapka: http://kurapka.lt/
+
+
+This is a paragraph that contains `a link`_.
+
+.. _a link: http://example.com/
+
 
 Įterptas paveikslėlis
 
