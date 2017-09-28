@@ -4,10 +4,10 @@ Architecture
 
 Database consists of two main groups of files: *backend* (core files, where data is stored) and *frontend* (files, used for interaction between user and core data files of backend).
 
-Files
+Backend
 -----
 
-All files listed
+The core file MainBackEnd.accdb is the file with :doc:`Tables <../tables.rst>` only. In this file immutable data is stored.
 
 
 Data relations
