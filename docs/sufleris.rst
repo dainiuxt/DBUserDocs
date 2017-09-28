@@ -1,46 +1,9 @@
 Sufleris
 ========
 
-#####
-Dalis
-
-
-Dalies tekstas
-
-*******
-Skyrius
-
-
-Skyriaus tekstas
-
-
-= Sekcija
-
-
-Sekcijos tekstas
-
-
-- subsekcija
-
-
-jos tekstas
-
-
-^ sub-subsekcija
-
-
-jos tekstukas
-
-
-" paragrafas
-
-
-" antras paragrafas
-
-
---------------
-Vidinės nuorodos
---------------
+------------------
+Vidinės ir išorinės nuorodos
+------------------
 
 :doc:`WELLS <../tables/WELLS>` - Pilnas kelias, kai nuorodos dokumentas kataloge.
 
@@ -51,9 +14,20 @@ Paragrafo tekstas su nuoroda į `kurapka.lt`_.
 .. _kurapka.lt: http://kurapka.lt/
 
 
+------------------
+Paveikslėlio įterpimas
+------------------
+
+
 Įterptas paveikslėlis
 
 .. image:: /assets/relationships.jpg
+
+
+------------------
+Lentelės
+------------------
+
 
 Sudėtinga lentelė
 
@@ -76,6 +50,12 @@ True   False  False
 False  True   False
 True   True   True
 =====  =====  =======
+
+
+------------------
+Tekstas ir sąrašai
+------------------
+
 
 Normalus paragrafo tekstas. Daug teksto. Normalus paragrafo tekstas. Daug teksto. Normalus paragrafo tekstas. Daug teksto. Normalus paragrafo tekstas. Daug teksto. Normalus paragrafo tekstas. Daug teksto. Normalus paragrafo tekstas. Daug teksto. Normalus paragrafo tekstas. Daug teksto. Normalus paragrafo tekstas. Daug teksto.
 
